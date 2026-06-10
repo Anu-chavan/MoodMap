@@ -18,8 +18,5 @@ https://moodmap.infinityfree.me
 - CSS
 - JavaScript
 
-## 📸 Screenshots
-(Add screenshots here)
-
 ## 👩‍💻 Author
 Anushaka Chavan
