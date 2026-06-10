@@ -5,6 +5,9 @@ A mood-based place recommendation web application that helps users discover plac
 ## 🚀 Live Demo
 https://moodmap.infinityfree.me
 
+## GitHub Repository
+https://github.com/Anu-chavan/MoodMap
+
 ## ✨ Features
 - User Registration & Login
 - Mood Selection
