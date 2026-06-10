@@ -1,15 +1,25 @@
 # MoodMap
 
-MoodMap is a web application that suggests travel destinations based on the user's mood.
+A mood-based place recommendation web application that helps users discover places based on their current mood.
 
-## Features
-- User Login & Registration
-- Mood-based destination suggestions
-- Save favourite places
-- Interactive UI
+## 🚀 Live Demo
+https://moodmap.infinityfree.me
 
-## Technologies Used
+## ✨ Features
+- User Registration & Login
+- Mood Selection
+- Place Recommendations
+- Responsive Design
+
+## 🛠 Technologies Used
 - PHP
 - MySQL
+- HTML
+- CSS
 - JavaScript
-- HTML/CSS
+
+## 📸 Screenshots
+(Add screenshots here)
+
+## 👩‍💻 Author
+Anushaka Chavan
